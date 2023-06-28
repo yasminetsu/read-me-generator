@@ -8,7 +8,7 @@ As a developer, it is important to be efficient with time. A thorough README fil
 
 ## Walkthrough Video
 
-  <a href="youtube.com/">
+  <a href="https://www.youtube.com/watch?v=9KYg-qhfkWE/">
 <img src="./download.png" alt="youtube">
 
 ## Technologies Used

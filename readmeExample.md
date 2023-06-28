@@ -1,4 +1,4 @@
-# Title of project goes here
+# Readme genetaor
 [![License](https://img.shields.io/badge/License-MIT-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
 ## Table of Contents:
     
@@ -10,36 +10,36 @@
     
 ## Description:
     
-An in depth description of project goes here
+description goes here
     
 ## Technologies:
     
 Project was created with:
     
 1. Javascript
-2. Node.js
-3. undefined
-4. undefined
+2. CSS
+3. Node.js
+4. HTML
     
 ## Installation:
     
-How to install project goes here
+how can someone install goes here
        
 ## Usage: 
 
 ```
 
-How to use the project goes here  
+how can someone use this project  
 
 ```
 
 ## Contributions:
     
-Ways to contribute to project goes here
+how can someone contribute goes here
 
 ## Tests:
 
-
+npm install 
     
 ## Questions:
     
