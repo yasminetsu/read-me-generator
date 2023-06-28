@@ -1,7 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
-
 inquirer 
 .prompt ([
     {
@@ -56,7 +55,7 @@ inquirer
         message: 'What license do you have for the project?',
         choices: ['MIT', 'APACHE 2.0', 'GPL 3.0', 'BSD 3', 'None'],
     },
-    
+
 ])
 .then((answers) => {
     console.log(answers);
